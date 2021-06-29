@@ -85,7 +85,6 @@ li a:hover:not(.active) {
 .header h1 {
   margin: 0;
   font-size: 1.75rem;
-  text-transform: uppercase;
 }
 .main h2,
 .aside h3 {
