@@ -68,8 +68,7 @@ li a:hover:not(.active) {
   background: snow;
 }
 .aside {
-  flex: 1;
-    max-width: 250px;
+  max-width: 250px;
   padding: 0 20px;
   background: papayawhip;
 }
